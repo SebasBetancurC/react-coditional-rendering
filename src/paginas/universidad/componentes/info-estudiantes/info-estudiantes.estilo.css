@@ -1,0 +1,13 @@
+.info-estudiante-contenedor{
+    border: 2px solid rgb(59, 59, 109);
+    text-align: left;
+    margin-bottom: 2px;
+    
+}
+
+.nota-perdida{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+

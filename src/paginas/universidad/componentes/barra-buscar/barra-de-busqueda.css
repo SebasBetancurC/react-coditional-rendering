@@ -1,0 +1,9 @@
+.contenedor-barra-de-busqueda{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 25px;
+    border: 2px solid rgba(69, 82, 73, 0.76);
+    padding: 20px;
+    margin-top: 10px;
+    text-align: left;
+}

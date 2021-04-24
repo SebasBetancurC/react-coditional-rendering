@@ -1,0 +1,13 @@
+.contenedor-filtro-universidad{
+    width: 35%;
+    margin: 0 auto;
+    min-height: 790px;
+    border: 2px solid rgb(10, 171, 235);
+
+}
+
+.titulo{
+    color: rgb(58, 58, 231);
+    font-weight:900;
+    font-size: 150%;
+}

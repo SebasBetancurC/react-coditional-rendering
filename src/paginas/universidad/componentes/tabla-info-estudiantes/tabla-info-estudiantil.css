@@ -1,0 +1,9 @@
+.contenedor-info-estudiantil{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 365px;
+    border: 2px solid rgb(43, 91, 194);
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+}
